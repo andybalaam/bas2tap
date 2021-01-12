@@ -4,7 +4,7 @@ A mirror of the BAS2TAP utility by Martijn van der Heide, ThunderWare Research
 Center to convert ZX Spectrum BASIC into .tap format.
 
 This repo is a mirror of the source code that may be downloaded from
-http://www.worldofspectrum.org/utilities.html
+https://worldofspectrum.org/tools/utilities
 ([direct link](http://www.worldofspectrum.org/pub/sinclair/tools/generic/bas2tap26-generic.zip)).
 
 It is provided in the hope that the code won't get lost if that site ever goes
